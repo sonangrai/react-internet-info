@@ -1,0 +1,16 @@
+.rt__internet__info {
+  position: sticky;
+  padding: 10px;
+  top: 0px;
+  height: "40px";
+  overflow: hidden;
+  transition: 0.3s;
+  background-color: #f73939;
+  color: #fff;
+  text-align: center;
+  font-size: 0.8em;
+  z-index: 99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
